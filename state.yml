@@ -1,8 +1,9 @@
 lastupdatecheck: 0
 recentrepos:
 - /Users/anhoder/Desktop/www/php-crm
-- /Users/anhoder/Desktop/www/yii
 - /Users/anhoder/.config/nvim
+- /Users/anhoder/.config/git
+- /Users/anhoder/Desktop/www/yii
 startuppopupversion: 5
 customcommandshistory:
 - q

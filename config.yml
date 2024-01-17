@@ -57,8 +57,8 @@ gui:
 git:
   paging:
     colorArg: always
-    pager: delta --color-only --features=interactive --paging=never
-    useConfig: true
+    pager: delta --color-only --features="interactive gruvmax-fang" --paging=never
+    useConfig: false
   commit:
     signOff: false
   merging:
